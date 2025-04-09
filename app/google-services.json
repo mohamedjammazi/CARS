@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "882345537267",
+    "project_id": "myapp-6b8c7",
+    "storage_bucket": "myapp-6b8c7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:882345537267:android:16d7a8dce33c2526ef9186",
+        "android_client_info": {
+          "package_name": "com.tunisia.carpool"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "882345537267-6p6lmcp69c7tafdi0ig18pr0cvsud9em.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tunisia.carpool",
+            "certificate_hash": "0c0641f61172fc7d6608392002ef8794138d4c86"
+          }
+        },
+        {
+          "client_id": "882345537267-nilrn0spo8g4lv59s9lk7dtkqn84cnbb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFXIgzHqjREpzHMr9sN_T-K7N6MC9vexU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "882345537267-nilrn0spo8g4lv59s9lk7dtkqn84cnbb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
